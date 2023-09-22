@@ -1,0 +1,11 @@
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\bin\Debug\UseLibrary.exe.config
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\bin\Debug\UseLibrary.exe
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\bin\Debug\UseLibrary.pdb
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\bin\Debug\LibrarySharp.dll
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\bin\Debug\LibrarySharp.pdb
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.csproj.AssemblyReference.cache
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.csproj.CopyComplete
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.exe
+C:\Users\VALERA\Desktop\ProjectC#\UseLibrary\obj\Debug\UseLibrary.pdb
