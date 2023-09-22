@@ -1,0 +1,6 @@
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\bin\Debug\LibrarySharp.dll
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\bin\Debug\LibrarySharp.pdb
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\obj\Debug\LibrarySharp.csproj.AssemblyReference.cache
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\obj\Debug\LibrarySharp.csproj.CoreCompileInputs.cache
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\obj\Debug\LibrarySharp.dll
+C:\Users\VALERA\Desktop\ProjectC#\LibrarySharp\obj\Debug\LibrarySharp.pdb
